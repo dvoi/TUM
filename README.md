@@ -1,4 +1,5 @@
-# Algorithms for Programming Contests WS21/22 - Topics Covered
+# Algorithms for Programming Contests WS21/22
+# Topics Covered
 
 ## Week 1: Introduction
 - [x] Hello World
