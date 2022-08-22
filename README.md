@@ -56,7 +56,7 @@
 - [x] Point on the Line Segment
 - [x] Intersection of Line Segments
 - [x] Counter-Clockwise Function
-- [x] Point on the Side of a ine
+- [x] Point on the Side of a Line
 - [x] Point-in-Polygon (Ray Casting)
 - [x] Convex Hull (Gift Wrapping & Graham’s Scan)
 
