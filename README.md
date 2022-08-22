@@ -72,4 +72,5 @@
 - [x] Operations in Projective Space
 - [x] Projective Transformations
 
-## Week 13: Contest (10 Problems on Random Topics)
+## Week 13: Contest
+- [x] 10 Problems on Random Topics
